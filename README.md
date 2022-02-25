@@ -15,5 +15,5 @@ Discord bot to play wordle with. <br>
 </pre>
 ### How to play
 <pre>
-<b>.s</b> command will generate a random five letter word. You try to guess the word with <b>.g your word here</b> command in 6 tries.
+<b>.s</b> command will generate a random five letter word. <br>You try to guess the word with <b>.g your word here</b> command in 6 tries.
 </pre>
